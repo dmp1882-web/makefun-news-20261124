@@ -1,0 +1,8 @@
+makefun-news-20261124 push manifest
+repo: dmp1882-web/makefun-news-20261124 (new, public)
+files:
+  main.py
+  entry.png.b64
+  README.md
+  LICENSE
+  .makefun/owner.json
